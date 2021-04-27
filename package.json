@@ -51,7 +51,7 @@
     "ngx-bootstrap": "1.8.0",
     "ngx-markdown-editor": "git+https://github.com/eegnom1807/ngx-markdown-editor-emoji.git",
     "node-env-file": "0.1.8",
-    "redis": "2.8.0",
+    "redis": "3.1.1",
     "request": "2.83.0",
     "rxjs": "5.1.0",
     "uuid": "3.1.0",
